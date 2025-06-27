@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.5](https://github.com/reanahub/reana-client/compare/0.9.4...0.9.5) (2025-06-27)
+
+
+### Continuous integration
+
+* **commitlint:** fix local running of commit linter on macOS ([#746](https://github.com/reanahub/reana-client/issues/746)) ([ddf1eea](https://github.com/reanahub/reana-client/commit/ddf1eeacd5aa8bca8f6d9729fa21ebb3bf2fbf5d))
+
 ## [0.9.4](https://github.com/reanahub/reana-client/compare/0.9.3...0.9.4) (2024-11-29)
 
 
